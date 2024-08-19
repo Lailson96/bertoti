@@ -1,3 +1,4 @@
+Atividade 1- 
   O que é Engenharia de Software?
 
   "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project,
@@ -10,6 +11,8 @@ Tempo: que se refere ao desenvolvimento, tempo para mudanças e tempo de virada 
 Escala: que seria a capacidade do software de continuar funcionando a medida em que crescem termos de volume e dados 
 Trade-offs: alguns exemplos comuns: Escalabilidade vs. Simplicidade ; Desempenho vs. Complexidade ; Tempo de Desenvolvimento vs. Qualidade ; Custo vs. Funcionalidade
 
+Atividade 2 -
+
 1 Exemplo: Express.js vs. Arquitetura de Microserviços
 Simples: Usar Express.js para construir uma API monolítica é rápido e fácil de configurar. Porém, pode se tornar um gargalo de desempenho e dificuldade de manutenção conforme a aplicação cresce.
 Escalável: Implementar uma arquitetura de microserviços usando Node.js com ferramentas como Docker e Kubernetes facilita a escalabilidade e manutenção, mas a configuração inicial e gerenciamento são mais complexos.
@@ -21,7 +24,7 @@ Desempenho: Implementar um algoritmo de ordenação eficiente, como QuickSort, p
 
 Complexidade: Usar uma biblioteca como Apache Commons Collections para ordenação é mais simples e direto, mas pode não ser tão otimizado para casos específicos.
 
-java
+Atividade 3 -
 
 
 
